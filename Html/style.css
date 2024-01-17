@@ -1,0 +1,65 @@
+body {
+    font-family: 'Mulish', sans-serif;
+}
+
+
+header {
+    background: transparent padding: 40px 220px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.aa {
+    font-weight: 800;
+    font-size: 36px;
+}
+
+.a {
+    color: #FF5400;
+    font-weight: 700;
+}
+
+.aa .a {
+    gap: 5px;
+    margin-right: 10px;
+}
+
+nav,
+.aa {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav>ul {
+    display: flex;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 25px;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+nav li a {
+    text-decoration: none;
+    color: #424247;
+}
+
+
+.bb {
+    background-image: url(../Images/Group\ 13.png);
+    background-size: cover;
+    max-width: 100%;
+    height: 500px;
+   position:relative;
+   padding-top: 110px;
+}
+.b{
+    text-align: center;
+    height: 550px;
+    margin-left: 130px;
+    margin-right: 130px;
+    
+}
