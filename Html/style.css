@@ -52,14 +52,72 @@ nav li a {
     background-image: url(../Images/Group\ 13.png);
     background-size: cover;
     max-width: 100%;
-    height: 500px;
+    height: 400px;
    position:relative;
-   padding-top: 110px;
+   padding-top: 80px;
+   color: #fff;
 }
+.b h1{
+    font-size: 60px;
+    font-weight: 800;
+}
+
 .b{
     text-align: center;
     height: 550px;
     margin-left: 130px;
     margin-right: 130px;
-    
+}
+.b1 input , button{
+    border: none;
+    width: 140px;
+    height: 45px;
+    border-radius: 8px;
+}
+.b1 button{
+background-color: #FF5400;
+color: #fff;
+align-items: center;
+justify-content: center;
+margin-top: 50px;
+}
+.b1 ::placeholder{
+padding-left: 10px;
+}
+.c{
+    display: flex;
+    margin-right: 125px;
+}
+.c0{
+    /* border: 2px solid salmon; */
+    padding-right: 85px;
+    margin-left: 125px;
+}
+.c00{
+    font-weight: 800;
+    font-size: 40px;
+}
+section .cc{
+    font-size: 16px;
+}
+section .c11{
+    background-color: #FF5400;
+    color: #fff;
+    font-weight: 500;
+    margin-top: 50;
+}
+.d{
+    margin-top: 70px;
+    margin-left: 125px;
+    margin-right: 125px;
+    text-align: center;
+}
+.d1{
+    text-align: center;
+    font-weight: 800;
+
+}
+.e{
+    display: grid;
+    gri
 }
